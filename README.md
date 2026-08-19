@@ -1,6 +1,6 @@
 # 🧠 Spike Train Analysis
 
-A Python notebook for the analysis of neuronal spike trains, developed as a coding project for a **Neurophysiology / Neural Coding** course. The notebook covers signal processing techniques applied to real electrophysiological recordings from rat cortex and mouse primary visual cortex (V1).
+A Python notebook for the analysis of neuronal spike trains, developed as a coding project for a **Brain Modelling** course. The notebook covers signal processing techniques applied to real electrophysiological recordings from rat cortex and mouse primary visual cortex (V1).
 
 ---
 
